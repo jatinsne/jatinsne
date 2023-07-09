@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Designs, WordPress Core, Bootstrap and React!
 - 🌱 I’m currently learning webpack and Android XML Layout
 - 💞️ I’m looking to collaborate on freelance projects on web design, development
-- 📫 Reach me at jatin@jatinunmatch.com
+- 📫 Reach me at jatinsne@gmail.com
